@@ -154,8 +154,8 @@ router.get('/loginpage', (req, res, next) =>{
                 res.sendFile(path.join(__dirname, '../', 'views', 'admin.html'));
             }
             else {
-                // res.sendFile(path.join(__dirname, '../', 'views', 'login.html'));
-                res.sendFile(path.join(__dirname, '../', 'views', 'dashboard.html') );
+                res.sendFile(path.join(__dirname, '../', 'views', 'login.html'));
+                //res.sendFile(path.join(__dirname, '../', 'views', 'dashboard.html') );
 
             }
         }
