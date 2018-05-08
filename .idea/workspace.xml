@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3e07ab9-deab-4809-82bd-06411c36bede" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CreateProfile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/CreateProfile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subs.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/subs.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="choosesubjects.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/choosesubjects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="choosestream.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/choosestream.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1300">
+              <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="118" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4900">
+              <caret line="245" selection-start-line="245" selection-end-line="245" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="HTML File" />
+        <option value="Jade File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>courses</find>
+      <find>Posts</find>
+      <find>Please select a course group to Join</find>
+      <find>Home</find>
+      <find>Course</find>
+      <find>registerpage</find>
+      <find>Email</find>
+      <find>true</find>
+      <find>Ri</find>
+      <find>register</find>
+      <find>alert</find>
+      <find>action</find>
+      <find>listuse</find>
+      <find>listu</find>
+      <find>isAdmin</find>
+      <find>admin</find>
+      <find>edit</find>
+      <find>const express \= require\(\'express\'\)\;\nconst router \= express\.Router\(\)\;\nvar path \= require\(\'path\'\)\;\n\nconst Users \= require\(\'\.\.\/model\/usersModel\'\)\n\nvar session \= require\(\'express\-session\'\)\;\nvar sess\;\n\nrouter\.get\(\'\/register\'\,\(req\,res\,next\) \=\&gt; \{\n    res\.send\(\'\&lt;h1\&gt; \&lt;center\&gt;Congratulations \'\+req\.param\(\'firstName\'\)\+\'\! You have successfully Registered\! Team RATS are cooking something special for you\! Stay Tuned\!\&lt;\/center\&gt;\&lt;\/h1\&gt;\&lt;center\&gt;\&lt;body\&gt;\&lt;form method\=\&quot;get\&quot; action\=\&quot;\/\&quot;\&gt;\&lt;input type\=\&quot;submit\&quot; value\=\&quot;Go Back to Home Page\&quot;\&gt;\&lt;\/form\&gt;\&lt;\/body\&gt;\&lt;\/center\&gt;\'\)\;\n\}\)\;\n\nrouter\.get\(\'\/login\'\,\(req\,res\,next\) \=\&gt; \{\n    res\.send\(\'\&lt;h1\&gt; \&lt;center\&gt;Congratulations \'\+req\.param\(\'firstName\'\)\+\'\! You have successfully Logged In\! Team RATS are cooking something special for you\! Stay Tuned\!\&lt;\/center\&gt;\&lt;\/h1\&gt;\&lt;center\&gt;\&lt;body\&gt;\&lt;form method\=\&quot;get\&quot; action\=\&quot;\/\&quot;\&gt;\&lt;input type\=\&quot;submit\&quot; value\=\&quot;Go Back to Home Page\&quot;\&gt;\&lt;\/form\&gt;\&lt;\/body\&gt;\&lt;\/center\&gt;\'\)\;\n\}\)\;\n\nrouter\.get\(\'\/createUser\'\, \(req\, res\, next\) \=\&gt; \{\n    console\.log\(\'Trying to register\!\'\)\;\n    sess\=req\.session\;\n\n    console\.log\(req\.query\.Email\)\;\n\n    Users\.findOne\(\{ \'Email\'\: req\.query\.Email \}\, function \(err\, user\) \{\n        if \(err\) return handleError\(err\)\;\n        if\(user\=\=null\)\{\n\n            const users \= new Users\(\{\n                firstName\: req\.query\.firstName\,\n                lastName\: req\.query\.lastName\,\n                Email\: req\.query\.Email\,\n                password\: req\.query\.password\,\n                isAdmin\: \'false\'\n            \}\)\;\n\n            users\.save\(\)\;\n            req\.session\.username \= req\.query\.Email\;\n            console\.log\(req\.session\.username\)\;\n            \/\/ req\.session\[\'username\'\] \= req\.param\(\'username\'\)\;\n            res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'login\.html\'\)\)\;\n            \/\/ res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'index\.html\'\)\)\;\n        \}\n        else \{\n            console\.log\(\&quot;User is already registered\!\&quot;\)\;\n            res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'index\.html\'\)\)\;\n        \}\n    \}\)\;\n\n\n\}\)\;\n\n\nrouter\.get\(\'\/editProfile\'\, \(req\, res\, next\) \=\&gt;\{\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    Users\.findOne\(\{ \'Email\'\: sess\.username \}\, function \(err\, user\) \{\n        console\.log\(user\)\;\n        if\(user\!\=null\) \{\n            res\.render\(\'editProfile\'\, \{users\: user\}\)\;\n        \}\n    \}\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/update\'\, \(req\, res\, next\) \=\&gt;\{\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    Users\.findOneAndUpdate\(\{ \'Email\'\: sess\.username \}\, \{ \$set\: \{ firstName\: req\.param\(\'firstname\'\)\, lastName\: req\.param\(\'lastname\'\) \, Email\: req\.param\(\'email\'\)\}\}\, function \(err\, user\) \{\n        console\.log\(user\)\;\n        if\(user\!\=null\) \{\n            Users\.findOne\(\{ \'Email\'\: sess\.username \}\, function \(err\, user\) \{\n                console\.log\(user\)\;\n                if\(user\!\=null\) \{\n                    res\.render\(\'editProfile\'\, \{users\: user\}\)\;\n                \}\n            \}\)\;\n        \}\n    \}\)\;\n\n\}\)\;\n\n\nrouter\.get\(\'\/getAllUsers\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;Admin wants to view users\&quot;\)\;\n    Users\.find\(\{  \}\, \{\}\, function \(err\, user\) \{\n        console\.log\(user\)\;\n        res\.render\(\'admin_listusers\'\, \{users\: user\}\)\;\n    \}\)\;\n\}\)\;\n\nrouter\.get\(\'\/admin_listusers\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;Admin clicked on view users\&quot;\)\;\n\n    Users\.find\(\{  \}\, \{\}\, function \(err\, user\) \{\n        console\.log\(user\)\;\n        if\(user\!\=null\) \{\n            res\.render\(\'admin_listusers\'\, \{users\: user\}\)\;\n        \}\n    \}\)\;\n\}\)\;\n\nrouter\.get\(\'\/deleteProfile\'\,\(req\,res\,next\) \=\&gt; \{\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/views\/deleteProfile\.html\'\)\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/deleteUser\'\,\(req\,res\,next\) \=\&gt; \{\n    \/\/ console\.log\(\&quot;Admin clicked on view users\&quot;\)\;\n\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    Users\.deleteOne\(\{Email\: sess\.username \}\, function \(err\, user\) \{\n        res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'index\.html\'\)\)\;\n    \}\)\;\n\n    req\.session\.destroy\(function\(err\) \{\n        \/\/ cannot access session here\n    \}\)\n\}\)\;\n\nrouter\.get\(\'\/loginpage\'\, \(req\, res\, next\) \=\&gt;\{\n\n    sess \= req\.session\;\n    console\.log\(\&quot;Session\&quot;\)\n    Users\.findOne\(\{ \'Email\'\: req\.param\(\'username\'\) \}\, function \(err\, user\) \{\n        if \(err\) return handleError\(err\)\;\n        if\(user\=\=null\)\{\n            res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'index\.html\'\)\)\;\n        \}\n        else \{\n            sess\.username \= user\.Email\;\n            console\.log\(sess\.username\)\n            \/\/ console\.log\(user\.firstName\)\;\n            if\(user\.isAdmin\=\=\'true\' \|\| user\.isAdmin\=\=true\)\{\n                res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'admin\.html\'\)\)\;\n            \}\n            else \{\n                res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'login\.html\'\)\)\;\n            \}\n        \}\n    \}\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/Dashboard\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;Dashboard\&quot;\)\;\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'article\.html\'\)\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/recent\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;recent\&quot;\)\;\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'recent\.html\'\)\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/rising\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;rising\&quot;\)\;\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'rising\.html\'\)\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/courses\'\,\(req\,res\,next\) \=\&gt; \{\n    console\.log\(\&quot;courses\&quot;\)\;\n    sess \= req\.session\;\n    console\.log\(sess\.username\)\;\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'courses\.html\'\)\)\;\n\n\}\)\;\n\nrouter\.get\(\'\/registerpage\'\,\(req\,res\,next\) \=\&gt; \{\n\/\/  res\.sendFile\(\'login\.html\'\, \{root\: __dirname \+ \'\\\\views\'\}\)\;\n    res\.sendFile\(path\.join\(__dirname\, \'\.\.\/\'\, \'views\'\, \'CreateProfile\.html\'\)\)\;\n\n\}\)\;\n\nmodule\.exports \= router\;</find>
+      <find>marke</find>
+      <find>../imgs/</find>
+      <find>app.use</find>
+      <find>background</find>
+      <find>\&lt;\!\-\-\&lt;\!DOCTYPE html\&gt;\-\-\&gt;\n\&lt;\!\-\-\&lt;html lang\=\&quot;en\&quot; \&gt;\-\-\&gt;\n\n\&lt;\!\-\-\&lt;head\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;title\&gt;Registration Form\&lt;\/title\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\.\.\/css\/tooltip\.css\&quot;\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/css\/style\.css\&quot;\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/\/code\.jquery\.com\/ui\/1\.12\.1\/themes\/base\/jquery\-ui\.css\&quot;\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/resources\/demos\/style\.css\&quot;\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-1\.12\.4\.js\&quot;\&gt;\&lt;\/script\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/ui\/1\.12\.1\/jquery\-ui\.js\&quot;\&gt;\&lt;\/script\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;script\&gt;\-\-\&gt;\n\n    \&lt;\!\-\-\$\( document \)\.tooltip\(\{\-\-\&gt;\n      \&lt;\!\-\-position\: \{\-\-\&gt;\n        \&lt;\!\-\-my\: \&quot;center bottom\-20\&quot;\,\-\-\&gt;\n        \&lt;\!\-\-at\: \&quot;center top\&quot;\,\-\-\&gt;\n        \&lt;\!\-\-using\: function\( position\, feedback \) \{\-\-\&gt;\n          \&lt;\!\-\-\$\( this \)\.css\( position \)\;\-\-\&gt;\n          \&lt;\!\-\-\$\( \&quot;\&lt;div\&gt;\&quot; \)\-\-\&gt;\n            \&lt;\!\-\-\.addClass\( \&quot;arrow\&quot; \)\-\-\&gt;\n            \&lt;\!\-\-\.addClass\( feedback\.vertical \)\-\-\&gt;\n            \&lt;\!\-\-\.addClass\( feedback\.horizontal \)\-\-\&gt;\n            \&lt;\!\-\-\.appendTo\( this \)\;\-\-\&gt;\n        \&lt;\!\-\-\}\-\-\&gt;\n      \&lt;\!\-\-\}\-\-\&gt;\n    \&lt;\!\-\-\}\)\;\-\-\&gt;\n\n  \&lt;\!\-\-\&lt;\/script\&gt;\-\-\&gt;\n\n\n\&lt;\!\-\-\&lt;\/head\&gt;\-\-\&gt;\n\n\&lt;\!\-\-\&lt;body\&gt;\-\-\&gt;\n\n\&lt;\!\-\-\&lt;form method\=\&quot;get\&quot; action\=\&quot;\/routes\/createUser\&quot;\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;h2\&gt;Sign Up\&lt;\/h2\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;label for\=\&quot;FirstName\&quot; class\=\&quot;floatLabel\&quot;\&gt;First Name\&lt;\/label\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;input id\=\&quot;firstName\&quot; name\=\&quot;firstName\&quot; type\=\&quot;text\&quot;\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;span\&gt;Please enter your First Name\&lt;\/span\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;label for\=\&quot;LastName\&quot; class\=\&quot;floatLabel\&quot;\&gt;Last Name\&lt;\/label\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;input id\=\&quot;lastName\&quot; name\=\&quot;lastName\&quot; type\=\&quot;text\&quot;\&gt;\-\-\&gt;\n    \&lt;\!\-\-\&lt;span\&gt;Please enter your Last Name\&lt;\/span\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;label for\=\&quot;Email\&quot; class\=\&quot;floatLabel\&quot;\&gt;Email\&lt;\/label\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;input id\=\&quot;Email\&quot; name\=\&quot;Email\&quot; type\=\&quot;text\&quot;\&gt;\-\-\&gt;\n      \&lt;\!\-\-\&lt;span\&gt;Please enter a valid Email\&lt;\/span\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;label for\=\&quot;password\&quot; class\=\&quot;floatLabel\&quot;\&gt;Password\&lt;\/label\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;input id\=\&quot;password\&quot; name\=\&quot;password\&quot; type\=\&quot;password\&quot; title\=\&quot;Password should be more than 8 characters\.\&quot;\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;span\&gt;Enter a password longer than 8 characters\&lt;\/span\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\n\	\	\&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;label for\=\&quot;confirm_password\&quot; class\=\&quot;floatLabel\&quot;\&gt;Confirm Password\&lt;\/label\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;input id\=\&quot;confirm_password\&quot; name\=\&quot;confirm_password\&quot; type\=\&quot;password\&quot;\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;span\&gt;Your passwords do not match\&lt;\/span\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;p\&gt;\-\-\&gt;\n\	\	\	\&lt;\!\-\-\&lt;input type\=\&quot;submit\&quot; value\=\&quot;Create My Account\&quot; id\=\&quot;submit\&quot;\&gt;\-\-\&gt;\n\	\	\&lt;\!\-\-\&lt;\/p\&gt;\-\-\&gt;\n\	\&lt;\!\-\-\&lt;\/form\&gt;\-\-\&gt;\n  \&lt;\!\-\-\&lt;script src\=\'http\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/jquery\/2\.1\.3\/jquery\.min\.js\'\&gt;\&lt;\/script\&gt;\-\-\&gt;\n\n\n\n    \&lt;\!\-\-\&lt;script  src\=\&quot;\/js\/index\.js\&quot;\&gt;\&lt;\/script\&gt;\-\-\&gt;\n\n\n\n\n\&lt;\!\-\-\&lt;\/body\&gt;\-\-\&gt;\n\n\&lt;\!\-\-\&lt;\/html\&gt;\-\-\&gt;\n\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot; \&gt;\n\n\&lt;head\&gt;\n\&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n\&lt;title\&gt;Registration Form\&lt;\/title\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\.\.\/css\/tooltip\.css\&quot;\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/css\/style\.css\&quot;\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/\/code\.jquery\.com\/ui\/1\.12\.1\/themes\/base\/jquery\-ui\.css\&quot;\&gt;\n\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;\/resources\/demos\/style\.css\&quot;\&gt;\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-1\.12\.4\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/ui\/1\.12\.1\/jquery\-ui\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;\n\n\$\( document \)\.tooltip\(\{\nposition\: \{\nmy\: \&quot;center bottom\-20\&quot;\,\nat\: \&quot;center top\&quot;\,\nusing\: function\( position\, feedback \) \{\n\$\( this \)\.css\( position \)\;\n\$\( \&quot;\&lt;div\&gt;\&quot; \)\n\.addClass\( \&quot;arrow\&quot; \)\n\.addClass\( feedback\.vertical \)\n\.addClass\( feedback\.horizontal \)\n\.appendTo\( this \)\;\n\}\n\}\n\}\)\;\n\n\&lt;\/script\&gt;\n\n\n\&lt;\/head\&gt;\n\n    \&lt;title\&gt;Login V8\&lt;\/title\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;icon\&quot; type\=\&quot;image\/png\&quot; href\=\&quot;\/images\/icons\/favicon\.ico\&quot;\/\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/bootstrap\/css\/bootstrap\.min\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/fonts\/font\-awesome\-4\.7\.0\/css\/font\-awesome\.min\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/animate\/animate\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/css\-hamburgers\/hamburgers\.min\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/animsition\/css\/animsition\.min\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/select2\/select2\.min\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/vendor\/daterangepicker\/daterangepicker\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/css\/util\.css\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; type\=\&quot;text\/css\&quot; href\=\&quot;\/css\/main\.css\&quot;\&gt;\n    \&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\n\&lt;div class\=\&quot;limiter\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-login100\&quot;\&gt;\n        \&lt;img src\=\&quot;\/imgs\/logo1\.jpg\&quot;\&gt;\n\n        \&lt;br\&gt;\n        \&lt;div class\=\&quot;wrap\-login100\&quot;\&gt;\n            \&lt;form class\=\&quot;login100\-form validate\-form p\-l\-55 p\-r\-55 p\-t\-178\&quot; method\=\&quot;get\&quot; action\=\&quot;\/routes\/loginpage\&quot;\&gt;\n\	\	\	\	\	\&lt;span class\=\&quot;login100\-form\-title\&quot;\&gt;\n\	\	\	\	\	\	Sign In\n\	\	\	\	\	\&lt;\/span\&gt;\n\n                \&lt;div class\=\&quot;wrap\-input100 validate\-input m\-b\-16\&quot; data\-validate\=\&quot;Please enter a valid username\&quot;\&gt;\n                    \&lt;input class\=\&quot;input100\&quot; type\=\&quot;username\&quot; name\=\&quot;username\&quot; id \=\&quot;username\&quot; placeholder\=\&quot;Username\&quot;\&gt;\n                    \&lt;span class\=\&quot;focus\-input100\&quot;\&gt;\&lt;\/span\&gt;\n                \&lt;\/div\&gt;\n\n                \&lt;div class\=\&quot;wrap\-input100 validate\-input\&quot; data\-validate \= \&quot;Please enter a valid password\&quot;\&gt;\n                    \&lt;input class\=\&quot;input100\&quot; type\=\&quot;password\&quot; name\=\&quot;password\&quot; id \= \&quot;password\&quot; placeholder\=\&quot;Password\&quot;\&gt;\n                    \&lt;span class\=\&quot;focus\-input100\&quot;\&gt;\&lt;\/span\&gt;\n                \&lt;\/div\&gt;\n\n                \&lt;div class\=\&quot;text\-right p\-t\-13 p\-b\-23\&quot;\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;txt1\&quot;\&gt;\n\	\	\	\	\	\	\	Forgot\n\	\	\	\	\	\	\&lt;\/span\&gt;\n\n                    \&lt;a href\=\&quot;\#\&quot; class\=\&quot;txt2\&quot;\&gt;\n                        Username \/ Password\?\n                    \&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n\n                \&lt;div class\=\&quot;container\-login100\-form\-btn\&quot;\&gt;\n                    \&lt;button class\=\&quot;login100\-form\-btn\&quot; type\=\&quot;submit\&quot;\&gt;\n                        Sign in\n                    \&lt;\/button\&gt;\n                \&lt;\/div\&gt;\n\n                \&lt;div class\=\&quot;flex\-col\-c p\-t\-170 p\-b\-40\&quot;\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;txt1 p\-b\-9\&quot;\&gt;\n\	\	\	\	\	\	\	Don\’t have an account\?\n\	\	\	\	\	\	\&lt;\/span\&gt;\n                    \&lt;a href\=\&quot;\/routes\/registerpage\&quot; class\=\&quot;txt3\&quot;\&gt;\n                        Sign up now\n                    \&lt;\/a\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/form\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\n\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/jquery\/jquery\-3\.2\.1\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/animsition\/js\/animsition\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/bootstrap\/js\/popper\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;\/vendor\/bootstrap\/js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/select2\/select2\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/daterangepicker\/moment\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;\/vendor\/daterangepicker\/daterangepicker\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/vendor\/countdowntime\/countdowntime\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\!\-\-\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\-\-\&gt;\n\&lt;script src\=\&quot;\/js\/main\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>artcl</find>
+      <find>index</find>
+      <find>Blah Blah</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/imgs/</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/article.html" />
+        <option value="$PROJECT_DIR$/views/posts.html" />
+        <option value="$PROJECT_DIR$/routes/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/views/rising.html" />
+        <option value="$PROJECT_DIR$/controller/postsController.js" />
+        <option value="$PROJECT_DIR$/config/database.config.js" />
+        <option value="$PROJECT_DIR$/model/noteModel.js" />
+        <option value="$PROJECT_DIR$/model/usersModel.js" />
+        <option value="$PROJECT_DIR$/controller/usersController.js" />
+        <option value="$PROJECT_DIR$/routes/postsRoutes.js" />
+        <option value="$PROJECT_DIR$/routes/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/views/editProfile.html" />
+        <option value="$PROJECT_DIR$/views/admin.html" />
+        <option value="$PROJECT_DIR$/views/admin_listusers.jade" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/views/login.html" />
+        <option value="$PROJECT_DIR$/views/deleteProfile.html" />
+        <option value="$PROJECT_DIR$/views/editProfile.jade" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/choosesubjects.html" />
+        <option value="$PROJECT_DIR$/views/choosestream.html" />
+        <option value="$PROJECT_DIR$/routes/assets/js/drag.js" />
+        <option value="$PROJECT_DIR$/routes/assets/js/index.js" />
+        <option value="$PROJECT_DIR$/routes/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/routes/assets/js/registerValid.js" />
+        <option value="$PROJECT_DIR$/views/CreateProfile.html" />
+        <option value="$PROJECT_DIR$/views/subs.jade" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/rimpy/Desktop/cmpe280/assignment/views/index.pug" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/219/game" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rimpy\Downloads\RATS_Assignment4 (1)\code\routes\assets\imgs" />
+      <recent name="C:\Users\rimpy\Downloads\RATS_Assignment4 (1)\code\routes\assets" />
+      <recent name="C:\Users\rimpy\Downloads\RATS_Assignment4 (1)\code\routes" />
+      <recent name="C:\Users\rimpy\Downloads\RATS_Assignment4 (1)\code\public" />
+      <recent name="C:\Users\rimpy\Desktop\cmpe280\assignment\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e07ab9-deab-4809-82bd-06411c36bede" name="Default" comment="" />
+      <created>1523155234169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523155234169</updated>
+      <workItem from="1523155235729" duration="5068000" />
+      <workItem from="1523307711532" duration="27833000" />
+      <workItem from="1524686359931" duration="5155000" />
+      <workItem from="1525205598926" duration="847000" />
+      <workItem from="1525501404051" duration="8179000" />
+      <workItem from="1525546549283" duration="18772000" />
+      <workItem from="1525646738736" duration="8225000" />
+      <workItem from="1525660532514" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74662000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49794802" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" x="1065" y="378" width="1536" height="193" id="Run" order="3" weight="0.23697917" />
+      <window_info id="npm" order="2" sideWeight="0.502052" side_tool="true" weight="0.17057292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2653899" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="118" lean-forward="true" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/choosestream.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/css/util.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8466">
+          <caret line="498" column="1" selection-start-line="498" selection-start-column="1" selection-end-line="498" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/editProfile.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/deleteProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="88" selection-start-line="99" selection-start-column="88" selection-end-line="99" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin_listusers.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/usersModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/usersController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/postsRoutes.js" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/config/database.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/postsRoutes.js" />
+    <entry file="file://$PROJECT_DIR$/views/index.jade" />
+    <entry file="file://$PROJECT_DIR$/views/editProfile.html" />
+    <entry file="file://$PROJECT_DIR$/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/usersController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15150" column="12" selection-start-line="15150" selection-start-column="12" selection-end-line="15150" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/deleteProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="5" column="66420" selection-start-line="5" selection-start-column="66420" selection-end-line="5" selection-end-column="66420" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin_listusers.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/usersModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/editProfile.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/css/util.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8466">
+          <caret line="498" column="1" selection-start-line="498" selection-start-column="1" selection-end-line="498" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/js/drag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4280">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="157" column="83" selection-start-line="157" selection-start-column="83" selection-end-line="157" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/js/registerValid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="118" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4900">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/CreateProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/subs.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/choosesubjects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/choosestream.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
