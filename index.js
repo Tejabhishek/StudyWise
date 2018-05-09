@@ -17,6 +17,7 @@ app.get('/', (req,res) =>{
 
 
         res.sendFile(__dirname + "/index.html")
+        console.log('rootpage root dir');
 
 });
 
