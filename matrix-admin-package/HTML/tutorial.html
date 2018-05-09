@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>StudyWise</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap-responsive.min.css" />
+    <link rel="stylesheet" href="css/colorpicker.css" />
+    <link rel="stylesheet" href="css/datepicker.css" />
+    <link rel="stylesheet" href="css/uniform.css" />
+    <link rel="stylesheet" href="css/select2.css" />
+    <link rel="stylesheet" href="css/matrix-style.css" />
+    <link rel="stylesheet" href="css/matrix-media.css" />
+    <link rel="stylesheet" href="css/bootstrap-wysihtml5.css" />
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<!--Header-part-->
+<div id="header">
+    <h1><a href="dashboard.html">StudyWise</a></h1>
+</div>
+<!--close-Header-part-->
+
+<!--top-Header-menu-->
+<div id="user-nav" class="navbar navbar-inverse">
+    <ul class="nav">
+        <li class=""><a title="" href="login.html"><i class="icon icon-large icon-user"></i> <span class="text-right">My Profile</span></a></li>
+        <li class=""><a title="" href="editProfile.html"><i class="icon icon-large  icon-share-alt"></i> <span class="text-right">Logout</span></a></li>
+
+    </ul>
+</div>
+
+<!--sidebar-menu-->
+
+<div id="sidebar"> <a href="#" class="visible-phone"><i class="icon icon-list"></i>Forms</a>
+    <ul>
+        <li><a href="index.html"><i class="icon icon-home"></i> <span>Dashboard</span></a> </li>
+        <li><a href="charts.html"><i class="icon icon-signal"></i> <span>Tutorials</span></a> </li>
+        <li><a href="widgets.html"><i class="icon icon-inbox"></i> <span>Book a Meeting Room</span></a> </li>
+
+
+    </ul>
+</div>
+
+<!--close-left-menu-stats-sidebar-->
+
+<div id="content">
+    <div id="content-header">
+        <div id="breadcrumb"> <a href="dash.html" title="Go to Home" class="tip-bottom"><i class="icon-home"></i> Home</a> <a href="tutorial.html" class="tip-bottom">Tutorials</a></div>
+        <h1>Upload Your Tutorial!</h1>
+    </div>
+    <div class="container-fluid">
+        <!--<div class="row-fluid">-->
+            <div class="widget-box">
+
+                <div class="widget-title">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a class="tab-pane" data-toggle="tab" href="#tab1">Course1</a></li>
+                        <li><a class="tab-pane" data-toggle="tab" href="#tab2">Course2</a></li>
+                        <li><a data-toggle="tab" class="tab-pane" href="#tab3">Course3</a></li>
+                    </ul>
+                </div>
+
+                <div class="widget-content tab-content">
+                    <div id="tab1" class="tab-pane active">
+                        <!--<div class="widget-title">-->
+                            <div><a id="add-event" data-toggle="modal" href="#modal-add-event" class="btn">
+                                <i class="icon-upload icon-white"></i> Add tutorial</a>
+                                <div class="modal hide" id="modal-add-event">
+                                    <div class="widget-content nopadding">
+                                        <form action="#" method="get" class="form-horizontal">
+                                            <div class="row-fluid">
+                                                <p class="text-center text-warning">You are posting in CMPE280</p>
+                                            </div>
+                                            <div class="control-group">
+                                                <label class="control-label">Title</label>
+                                                <div class="controls">
+                                                    <input type="text" class="text text-info span11" placeholder="Add title"></input>
+                                                </div>
+                                            </div>
+                                            <div class="control-group">
+                                                <label class="control-label">Description</label>
+                                                <div class="controls">
+                                                    <textarea class="text text-info span11" placeholder="Add details about your tutorial!"></textarea>
+                                                </div>
+                                            </div>
+
+                                            <div class="control-group">
+                                                <label class="control-label">File upload input</label>
+                                                <div class="controls">
+                                                    <input type="file" />
+                                                </div>
+                                            </div>
+
+                                            <div class="form-actions">
+                                                <button type="submit" class="btn btn-success">Save</button>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        <!--</div>-->
+
+                        <div class="widget-box">
+                            <div class="widget-content nopadding">
+                                <ul class="recent-posts">
+                                    <li>
+                                        <div class="widget-content"> <span class="label large">Title</span></div>
+                                        <div class="widget-content"> <p class="text-info large">Description</p></div>
+
+                                        <div class="widget-plain" ><video width="600" height="300" controls>
+                                            <source src="Privacy%20WebSite.mp4" type="video/mp4">
+                                            Your browser does not support the video tag.
+                                        </video></div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="tab2" class="tab-pane">
+                        <div><a id="add-event2" data-toggle="modal" href="#modal-add-event" class="btn">
+                            <i class="icon-upload icon-white"></i> Add tutorial</a>
+                            <div class="modal hide" id="modal-add-event2">
+                                <div class="widget-content nopadding">
+                                    <form action="#" method="get" class="form-horizontal">
+                                        <div class="row-fluid">
+                                            <p class="text-center text-warning">You are posting in CMPE280</p>
+                                        </div>
+                                        <div class="control-group">
+                                            <label class="control-label">Title</label>
+                                            <div class="controls">
+                                                <input type="text" class="text text-info span11" placeholder="Add title"></input>
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <label class="control-label">Description</label>
+                                            <div class="controls">
+                                                <textarea class="text text-info span11" placeholder="Add details about your tutorial!"></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="control-group">
+                                            <label class="control-label">File upload input</label>
+                                            <div class="controls">
+                                                <input type="file" />
+                                            </div>
+                                        </div>
+
+                                        <div class="form-actions">
+                                            <button type="submit" class="btn btn-success">Save</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget-box">
+                            <div class="widget-content nopadding">
+                                <ul class="recent-posts">
+                                    <li>
+                                        <div class="widget-content"> <span class="label large">Title</span></div>
+                                        <div class="widget-content"> <p class="text-info large">Description</p></div>
+
+                                        <div class="widget-plain" ><video width="600" height="300" controls>
+                                            <source src="Privacy%20WebSite.mp4" type="video/mp4">
+                                            Your browser does not support the video tag.
+                                        </video></div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="tab3" class="tab-pane">
+                        <div><a id="add-event3" data-toggle="modal" href="#modal-add-event" class="btn">
+                            <i class="icon-upload icon-white"></i> Add tutorial</a>
+                            <div class="modal hide" id="modal-add-event3">
+                                <div class="widget-content nopadding">
+                                    <form action="#" method="get" class="form-horizontal">
+                                        <div class="row-fluid">
+                                            <p class="text-center text-warning">You are posting in CMPE280</p>
+                                        </div>
+                                        <div class="control-group">
+                                            <label class="control-label">Title</label>
+                                            <div class="controls">
+                                                <input type="text" class="text text-info span11" placeholder="Add title"></input>
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <label class="control-label">Description</label>
+                                            <div class="controls">
+                                                <textarea class="text text-info span11" placeholder="Add details about your tutorial!"></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="control-group">
+                                            <label class="control-label">File upload input</label>
+                                            <div class="controls">
+                                                <input type="file" />
+                                            </div>
+                                        </div>
+
+                                        <div class="form-actions">
+                                            <button type="submit" class="btn btn-success">Save</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget-box">
+                            <div class="widget-content nopadding">
+                                <ul class="recent-posts">
+                                    <li>
+                                        <div class="widget-content"> <span class="label large">Title</span></div>
+                                        <div class="widget-content"> <p class="text-info large">Description</p></div>
+
+                                        <div class="widget-plain" ><video width="600" height="300" controls>
+                                            <source src="Privacy%20WebSite.mp4" type="video/mp4">
+                                            Your browser does not support the video tag.
+                                        </video></div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!--</div>-->
+            <!--</div>-->
+
+        </div>
+    </div>
+</div>
+    <!--Footer-part-->
+    <div class="row-fluid">
+        <div id="footer" class="span12"> 2013 &copy; StudyWise. Brought to you by <a href="http://themedesigner.in">Themedesigner.in</a> </div>
+    </div>
+    <!--end-Footer-part-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.ui.custom.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-colorpicker.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="js/jquery.toggle.buttons.js"></script>
+    <script src="js/masked.js"></script>
+    <script src="js/jquery.uniform.js"></script>
+    <script src="js/select2.min.js"></script>
+    <script src="js/matrix.js"></script>
+    <script src="js/matrix.form_common.js"></script>
+    <script src="js/wysihtml5-0.3.0.js"></script>
+    <script src="js/jquery.peity.min.js"></script>
+    <script src="js/bootstrap-wysihtml5.js"></script>
+    <script src="js/matrix.js"></script>
+    <script src="js/matrix.calendar.js"></script>
+    <script>
+        $('.textarea_editor').wysihtml5();
+    </script>
+</body>
+</html>
