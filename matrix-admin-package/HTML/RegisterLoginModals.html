@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Matrix Admin</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<link rel="stylesheet" href="css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" href="css/fullcalendar.css" />
+<link rel="stylesheet" href="css/matrix-style.css" />
+<link rel="stylesheet" href="css/matrix-media.css" />
+<link href="font-awesome/css/font-awesome.css" rel="stylesheet" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,800' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<!--Header-part-->
+<div id="header">
+  <h1><a href="dashboard.html">Matrix Admin</a></h1>
+</div>
+<!--close-Header-part-->
+
+<!--top-Header-menu-->
+</div>
+<div class="widget-box">
+   <div class="widget-title">
+      <span class="icon"> <i class="icon-hand-right"></i> </span>
+      <h5>Registration and Login Modals</h5>
+   </div>
+   <div class="widget-content">
+      <a href="#myModal" data-toggle="modal" class="btn btn-success">Login</a>
+      <a href="#myAlert" data-toggle="modal" class="btn btn-warning">Register</a>
+      <div id="myModal" class="modal hide">
+         <div class="modal-header">
+            <button data-dismiss="modal" class="close" type="button">×</button>
+            <h3>Login</h3>
+         </div>
+
+<!-- Error and Success Messages -->
+         <div class="alert alert-success alert-block"> <a class="close" data-dismiss="alert" href="#">×</a>
+              <h4 class="alert-heading">Success!</h4>
+              You have successfully logged in! </div>
+
+          <div class="alert alert-error alert-block"> <a class="close" data-dismiss="alert" href="#">×</a>
+                    <h4 class="alert-heading">Error!</h4>
+                    Please check your user id and password again!</div>
+<!-- Error and Success Messages END-->
+
+
+<!-- Actual Form for Login -->
+                    <div class="widget-content nopadding">
+                <form action="#" method="get" class="form-horizontal">
+                  <div class="control-group">
+                    <label class="control-label">UserID: </label>
+                    <div class="controls">
+                      <input type="text"  placeholder="UserID" />
+                    </div>
+                  </div>
+                  <div class="control-group">
+                    <label class="control-label">Password: </label>
+                    <div class="controls">
+                      <input type="password"  placeholder="Enter Password"  />
+                    </div>
+                  </div>
+
+                  <div class="form-actions">
+                    <button type="submit" class="btn btn-success">Login</button>
+                  </div>
+                </form>
+              </div>
+
+
+         <div class="modal-body">
+            <p>Please login with your registered email address</p>
+         </div>
+        <!-- <div class="modal-footer"> <a data-dismiss="modal" class="btn btn-primary" href="#">Login</a> <a data-dismiss="modal" class="btn" href="#">Cancel</a> </div>-->
+
+
+      </div>
+
+      <div id="myAlert" class="modal hide">
+         <div class="modal-header">
+           <div class="modal-header">
+              <button data-dismiss="modal" class="close" type="button">×</button>
+              <h3>Registration</h3>
+           </div>
+
+           <div class="widget-box">
+      
+      <div class="widget-content nopadding">
+        <form action="#" method="get" class="form-horizontal">
+          <div class="control-group">
+            <label class="control-label">First Name:</label>
+            <div class="controls">
+              <input type="text"  placeholder="First name" />
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label">Last Name:</label>
+            <div class="controls">
+              <input type="text"  placeholder="Last name" />
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label">Email ID</label>
+            <div class="controls">
+              <input type="text"  placeholder="Email ID" />
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label">User ID:</label>
+            <div class="controls">
+              <input type="text"  placeholder="UserID" />
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label">Choose Password: </label>
+            <div class="controls">
+              <input type="password"   placeholder="Enter Password"  />
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label">Confirm Password</label>
+            <div class="controls">
+              <input type="password"   placeholder="Confirm Password"  />
+            </div>
+          </div>
+
+
+
+          <div class="form-actions">
+            <button type="submit" class="btn btn-success">Register</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+
+      </div>
+   </div>
+</div>
+
+
+
+
+
+<!--Footer-part-->
+<div class="row-fluid">
+  <div id="footer" class="span12"> 2013 &copy; Matrix Admin. Brought to you by <a href="http://themedesigner.in">Themedesigner.in</a> </div>
+</div>
+<!--end-Footer-part-->
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.ui.custom.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/fullcalendar.min.js"></script>
+<script src="js/matrix.js"></script>
+<script src="js/matrix.calendar.js"></script>
+</body>
+</html>
